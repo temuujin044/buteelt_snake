@@ -1,7 +1,6 @@
 "use client";
 import { ChevronLeft, ChevronRight } from "@mui/icons-material";
-import { Box, Button, Stack } from "@mui/material";
-import { ST } from "next/dist/shared/lib/utils";
+import { Button, Stack } from "@mui/material";
 import { useState } from "react";
 
 interface CarouselProps {
